@@ -65,8 +65,8 @@ http://localhost:3000
 ## 📬 Contact
 
 - GitHub: https://github.com/karthik2rathod
-- LinkedIn: (Add your LinkedIn)
-- Email: (Add your Email)
+- LinkedIn: (https://www.linkedin.com/in/karthik-rathod-72a367346/)
+- Email: (karthikrathlavath01@gmail.com)
 
 ---
 
